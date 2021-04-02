@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/src/java/loclt/servlet/StudentCompleteQuizServlet.java</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/src/java/loclt/servlet/TeacherCreateQuestionServlet.java</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/web/takeQuiz.jsp</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/web/asset/js/jquery.twbsPagination.js</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/src/java/loclt/servlet/StudentTakeQuizServlet.java</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/web/teacher.jsp</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/src/java/loclt/servlet/StudentViewDetailsHistoryServlet.java</file>
+            <file>file:/C:/Users/WIN/Documents/NetBeansProjects/QuizOnline_LAB231_Change1/src/java/loclt/question/QuestionDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
